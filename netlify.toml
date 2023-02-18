@@ -1,0 +1,7 @@
+[build]
+  publish = "public"
+  command = "CI= npm run build"
+[build.environment]
+  YARN_VERSION = "1.7.0"
+[template.environment]
+  NODE_VERSION = "18.0.0"
