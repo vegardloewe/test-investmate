@@ -4,10 +4,11 @@
   </a>
 </p> -->
 <h1 align="center">
-  CollaborateHQ Template
+  InvestMate Template
 </h1>
 
-<img width="1436" alt="Skjermbilde 2023-02-12 kl  16 56 06" src="https://user-images.githubusercontent.com/62800747/218326078-ba506669-5689-45d1-98a9-78c5f27eb227.png">
+<img width="1437" alt="Skjermbilde 2023-02-18 kl  16 50 27" src="https://user-images.githubusercontent.com/62800747/219875334-4f721619-0aec-4d2e-a877-beab88a36251.png">
+
 
 Kick off your project with this boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
