@@ -36,7 +36,7 @@ const Header = () => {
               alt=""
               class="automator-icon"
             />
-            <h1 class="heading xxl">Automate your investments</h1>
+            <h1 class="heading xxl">Automate your day</h1>
             <p class="paragraph l">
               Lorem ipsum dolor sit amet consectetur. Ut lectus a diam feugiat
               viverra nunc aliquam.
